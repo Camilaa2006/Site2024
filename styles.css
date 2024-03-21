@@ -1,4 +1,6 @@
+@chanset "UTF-8"
 body {
+  backgroud-color:d3d3d3;
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
