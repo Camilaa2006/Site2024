@@ -97,3 +97,9 @@ section {
 a{
   text-decoration: none;
 }
+
+.titulo{
+  text-shadow: #e6c0c0 2px 3px 2px;
+  font-size: 40px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
